@@ -1,0 +1,14 @@
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/bin/Release/netcoreapp2.1/HogeschoolAppFeedback.deps.json
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/bin/Release/netcoreapp2.1/HogeschoolAppFeedback.runtimeconfig.json
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/bin/Release/netcoreapp2.1/HogeschoolAppFeedback.runtimeconfig.dev.json
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/bin/Release/netcoreapp2.1/HogeschoolAppFeedback.dll
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/bin/Release/netcoreapp2.1/HogeschoolAppFeedback.pdb
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/obj/Release/netcoreapp2.1/HogeschoolAppFeedback.csprojAssemblyReference.cache
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/obj/Release/netcoreapp2.1/HogeschoolAppFeedback.csproj.CoreCompileInputs.cache
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/obj/Release/netcoreapp2.1/HogeschoolAppFeedback.RazorAssemblyInfo.cache
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/obj/Release/netcoreapp2.1/HogeschoolAppFeedback.RazorAssemblyInfo.cs
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/obj/Release/netcoreapp2.1/HogeschoolAppFeedback.AssemblyInfoInputs.cache
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/obj/Release/netcoreapp2.1/HogeschoolAppFeedback.AssemblyInfo.cs
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/obj/Release/netcoreapp2.1/HogeschoolAppFeedback.RazorTargetAssemblyInfo.cache
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/obj/Release/netcoreapp2.1/HogeschoolAppFeedback.dll
+/Users/wes/Projects/HogeschoolAppFeedback/HogeschoolAppFeedback/obj/Release/netcoreapp2.1/HogeschoolAppFeedback.pdb
