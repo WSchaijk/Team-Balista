@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ultramain"
+    tools:context=".QuestionActivity" >
+
+    <TextView
+        android:id="@+id/poll_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="17dp"
+        android:paddingTop="10dp"
+        android:text="Poll"
+        android:textColor="#DC0024"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:paddingLeft="17dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="Dit is de vraag- of stelling die bij de vraag hoort"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/poll_title" />
+
+
+
+
+
+</android.support.constraint.ConstraintLayout>
